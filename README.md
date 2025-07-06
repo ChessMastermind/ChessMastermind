@@ -22,4 +22,4 @@ I work with **Python** and build stuff with and without AI. I spend a lot of tim
 
 ### Notable Projects
 
-- **GradeBoundaries** — grade data made simple ([gradeboundaries.com](https://gradeboundaries.com))
+- **GradeBoundaries** — gradeboundarie data made simple ([gradeboundaries.com](https://gradeboundaries.com))
