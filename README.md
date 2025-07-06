@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, I'm ChessMastermind 
 
-<!--
-**ChessMastermind/ChessMastermind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 17-year-old student and cofounder of [gradeboundaries.com](https://gradeboundaries.com).
 
-Here are some ideas to get you started:
+I work with **Python** and build stuff with and without AI. I spend a lot of time in **Linux**, write scripts and tools for fun or necessity, and play a lot of **chess**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Do
+
+- Cofounder @ [gradeboundaries.com](https://gradeboundaries.com)
+- Build things with Python 3
+- Work with AI (mostly PyTorch)
+- Automate with Bash, CLI tools, and Linux environments
+
+### Things I Use
+
+- Python 3
+- PyTorch 
+- Bash & Linux
+- Git
+- VS Code
+- Assembly
+
+### Notable Projects
+
+- **GradeBoundaries** — grade data made simple ([gradeboundaries.com](https://gradeboundaries.com))
